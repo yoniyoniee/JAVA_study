@@ -55,8 +55,9 @@ final int number;
  flag = false;
 ```
   ### 2. 문자형 변수 : char
-     - 문자 하나만 저장
-     - 홑따옴표
+- 문자 하나만 저장
+- 홑따옴표
+     
 ```
 char alpabet = 'A';
 ```
