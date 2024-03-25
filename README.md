@@ -14,6 +14,8 @@ java 언어
     
 - 대규모 앱 개발 가능 → API 제공
 
+  
+
 ### JVM
 
 - Java virtual Machine
