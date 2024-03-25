@@ -74,7 +74,7 @@ double doubleNum = 0.123123123;
 ```
    
 
-## 참조형
+## 참조형 (주소형)
 - 별도로 저장한 주소 값을 참조
 
    ### 문자열 변수 String 저장
@@ -86,4 +86,12 @@ double doubleNum = 0.123123123;
     ```
   int[] a = {1, 2, 3};
   ```
+  
+
+## 형변환
+```angular2html
+Scanner sc = new Sanner(system.in);
+char letter = sc.nextLine().charAt(0); 
+int asciiNumber = (int)letter; // 문자를 정수로 형변환
+```
 
