@@ -48,25 +48,25 @@ final int number;
 ## 기본형 변수
 숫자, 문자, Boolean...
 
-  1. 논리형 변수: boolean (true/false)
+  ###1. 논리형 변수: boolean (true/false)
     
 ```
  boolean flag = true;
  flag = false;
 ```
-  2. 문자형 변수 : char
+  ###2. 문자형 변수 : char
      - 문자 하나만 저장
      - 홑따옴표
 ```
 char alpabet = 'A';
 ```
-  3. 정수형 변수 : byte < short < int < long
+  ###3. 정수형 변수 : byte < short < int < long
 ```
 byte byteNumber = 127;
 short shortNumber = 32767;
 ...
 ```
-  4. 실수형 변수 : float(4byte), double(8byte)
+  ###4. 실수형 변수 : float(4byte), double(8byte)
 
 ```
 float floatNum = 0.123F;
