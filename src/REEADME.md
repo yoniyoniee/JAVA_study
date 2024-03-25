@@ -20,4 +20,11 @@ public class Main {
 
 ## (String[] args)
 - 매개변수 자리
-- 
+
+
+## 객체
+- 특징(속성, 변수) + 행동(메소드)
+
+
+println : 줄바꿈 o
+print : 줄바꿈 x
