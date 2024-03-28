@@ -1,4 +1,4 @@
-package week02;
+package week02.operator;
 
 import java.sql.SQLOutput;
 import java.util.Objects;
