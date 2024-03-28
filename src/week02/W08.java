@@ -1,6 +1,6 @@
 package week02;
 
-public class W8 {
+public class W08 {
     public static void main(String[] args) {
         // 연산자 우선순위
         int x = 2;

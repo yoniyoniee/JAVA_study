@@ -1,6 +1,6 @@
 package week02.array;
 
-public class Arr10 {
+public class Arr08 {
     public static void main(String[] args) {
 
         // 최소값 구하기
