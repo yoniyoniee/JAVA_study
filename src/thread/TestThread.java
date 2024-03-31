@@ -1,4 +1,4 @@
-package week05.thread;
+package thread;
 
 public class TestThread extends Thread{
     @Override

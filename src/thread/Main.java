@@ -1,4 +1,4 @@
-package week05.thread;
+package thread;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,9 +8,9 @@ public class Main {
 
 //        Runnable run = new TestRunnable();
 //
-//        Thread week05.thread = new Thread( run);
+//        Thread thread = new Thread( run);
 //
-//        week05.thread.start();
+//        thread.start();
 
 
         Runnable task = () -> {
