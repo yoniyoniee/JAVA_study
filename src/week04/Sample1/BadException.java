@@ -1,4 +1,4 @@
-package week4.Sample1;
+package week04.Sample1;
 
 // 예외 클래스 만들어서 예외를 정의
 public class BadException extends Exception{

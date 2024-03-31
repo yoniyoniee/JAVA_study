@@ -39,8 +39,8 @@ public class TestThread extends Thread {
 
 ...
 
-TestThread thread = new TestThread(); // 쓰레드 생성
-thread.start() // 쓰레드 실행
+TestThread week05.thread = new TestThread(); // 쓰레드 생성
+week05.thread.start() // 쓰레드 실행
 ```
 ### run()
 - run() 메서드에 작성된 코드가 쓰레드가 수행할 작업
@@ -59,9 +59,9 @@ public class TestRunnable implements Runnable {
 ...
 
 Runnable run = new TestRunnable();
-Thread thread = new Thread(run); // 쓰레드 생성
+Thread week05.thread = new Thread(run); // 쓰레드 생성
 
-thread.start(); // 쓰레드 실행
+week05.thread.start(); // 쓰레드 실행
 ```
 
 ---

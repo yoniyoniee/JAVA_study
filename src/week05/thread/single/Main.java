@@ -1,4 +1,4 @@
-package thread.single;
+package week05.thread.single;
 
 public class Main  {
 

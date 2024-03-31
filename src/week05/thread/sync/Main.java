@@ -1,4 +1,4 @@
-package thread.sync;
+package week05.thread.sync;
 
 public class Main {
     public static void main(String[] args) {

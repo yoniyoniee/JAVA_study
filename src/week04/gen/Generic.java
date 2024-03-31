@@ -1,4 +1,4 @@
-package week4.gen;
+package week04.gen;
 
 public class Generic<T>{
 

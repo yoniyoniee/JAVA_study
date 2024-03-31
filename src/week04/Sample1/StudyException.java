@@ -1,4 +1,4 @@
-package week4.Sample1;
+package week04.Sample1;
 
 public class StudyException {
 
